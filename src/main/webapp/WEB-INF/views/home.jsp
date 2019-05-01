@@ -12,15 +12,15 @@
 <br>
 <br>
 <br>
-	<form action="allUsers" method="post">
+	<form action="allTeachers" method="post">
 
-		<input type="submit" value="List All Users" />
+		<input type="submit" value="Lister les enseignants" />
 
 	</form>
 	<br>
-	<form action="allStudents" method="post">
+	<form action="allCategories" method="post">
 
-		<input type="submit" value="Lister les etudiants" />
+		<input type="submit" value="Lister les Categories" />
 
 	</form>
 </body>
